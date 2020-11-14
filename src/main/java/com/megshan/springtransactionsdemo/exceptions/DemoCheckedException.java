@@ -1,4 +1,4 @@
-package com.megshan.springtransactionsdemo;
+package com.megshan.springtransactionsdemo.exceptions;
 
 /**
  * Checked exception to test rollback processing.

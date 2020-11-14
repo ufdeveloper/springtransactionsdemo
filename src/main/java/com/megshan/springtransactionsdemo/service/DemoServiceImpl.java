@@ -1,6 +1,6 @@
 package com.megshan.springtransactionsdemo.service;
 
-import com.megshan.springtransactionsdemo.DemoCheckedException;
+import com.megshan.springtransactionsdemo.exceptions.DemoCheckedException;
 import com.megshan.springtransactionsdemo.data.UserRepository;
 import com.megshan.springtransactionsdemo.domain.User;
 import org.apache.commons.lang.RandomStringUtils;
